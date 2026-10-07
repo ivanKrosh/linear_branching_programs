@@ -1,0 +1,24 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Сценарії/">
+    <File Path="Сценарії/demo01_hook.cmd" />
+    <File Path="Сценарії/demo02_linear.cmd" />
+    <File Path="Сценарії/demo03_nodebugger.cmd" />
+    <File Path="Сценарії/demo04_if_asm.cmd" />
+    <File Path="Сценарії/demo05_pitfalls.cmd" />
+    <File Path="Сценарії/demo06_drive.cmd" />
+    <File Path="Сценарії/demo07_jumptable.cmd" />
+    <File Path="Сценарії/demo01_answer.cmd" />
+    <File Path="Сценарії/show_asm.ps1" />
+  </Folder>
+  <Project Path="Demo1_unsigned/Demo1_unsigned.vcxproj" Id="7ff0f60a-25b3-44fb-ba98-ef29f646b52e" />
+  <Project Path="Demo2_linear/Demo2_linear.vcxproj" Id="77b23305-3954-4d1a-9a40-999245172497" />
+  <Project Path="Demo3_debugger/Demo3_debugger.vcxproj" Id="2cfa8db3-a961-49d1-a798-9d115bd77b81" />
+  <Project Path="Demo4_branch/Demo4_branch.vcxproj" Id="fb607f18-fcb8-4cb6-81bb-088bc8298b40" />
+  <Project Path="Demo5_pitfalls/Demo5_pitfalls.vcxproj" Id="a9d6ef1f-470f-4e6c-bfcd-22cd2d1f84c5" />
+  <Project Path="Demo6_drive/Demo6_drive.vcxproj" Id="9f670858-5a8a-47d2-9b19-3f6c30c0e9bd" />
+  <Project Path="Demo7_jumptable/Demo7_jumptable.vcxproj" Id="488ebc09-d96b-447f-85c0-fa6a84d991e2" />
+</Solution>
